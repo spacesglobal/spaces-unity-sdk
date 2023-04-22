@@ -1,2 +1,2 @@
-# spaces-unity-sdk
+# Spaces Unity SDK
 Used to integrate Unity apps with Spaces Platform.
